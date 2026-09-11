@@ -1,5 +1,7 @@
-ublic class Main {
+public class Main {
     public static void main(String[] args) {
+        
+        
         //Блок 1: Оголошення змінних та примітивні типи даних (Завдання 1–8)
         // Завдання 1: Особиста картка студента
         System.out.println("\n==== Завдання 1 ====\n");
